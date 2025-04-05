@@ -1,11 +1,11 @@
 import express from 'express';
-import { initializeDatabase } from './db/db.connect.js';
+// import { initializeDatabase } from './db/db.connect.js';
 import Product from './modules/products.models.js';
 import Wishlist from './modules/wishlist.models.js';
 import Cart from './modules/cart.models.js';
 import Address from './modules/address.models.js';
 import Order from './modules/order.models.js';
-import fs from 'fs';
+// import fs from 'fs';
 import cors from 'cors';
 import dotenv from 'dotenv';
 
@@ -18,6 +18,8 @@ const PORT = process.env.PORT || 3000;
 app.use(express.json());
 
 // initializeDatabase()
+
+// const productData = JSON.parse(fs.readFileSync('ProductData.json', 'utf-8')) 
 
 // const jsonProductData =fs.readFileSync('ProductData.json', 'utf-8')
 // const productData = JSON.parse(jsonProductData);
