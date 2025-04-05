@@ -8,18 +8,6 @@ import Order from './modules/order.models.js';
 // import fs from 'fs';
 import cors from 'cors';
 import dotenv from 'dotenv';
-// import path from 'path';
-
-
-// const productDataPath = path.resolve('./ProductData.json');
-// let productData = [];
-// try {
-//   productData = JSON.parse(fs.readFileSync(productDataPath, 'utf-8'));
-// } catch (error) {
-//   console.error(`Error reading ProductData.json: ${error.message}`);
-//   process.exit(1); // Exit the process with an error code
-// }
-
 
 dotenv.config();
 const app = express();
