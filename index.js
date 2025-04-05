@@ -1,24 +1,14 @@
 import express from 'express';
-// import { initializeDatabase } from './db/db.connect.js';
+import { initializeDatabase } from './db/db.connect.js';
 import Product from './modules/products.models.js';
 import Wishlist from './modules/wishlist.models.js';
 import Cart from './modules/cart.models.js';
 import Address from './modules/address.models.js';
 import Order from './modules/order.models.js';
-// import fs from 'fs';
+import fs from 'fs';
 import cors from 'cors';
 import dotenv from 'dotenv';
-// import path from 'path';
 
-
-// const productDataPath = path.resolve('./ProductData.json');
-// let productData = [];
-// try {
-//   productData = JSON.parse(fs.readFileSync(productDataPath, 'utf-8'));
-// } catch (error) {
-//   console.error(`Error reading ProductData.json: ${error.message}`);
-//   process.exit(1); // Exit the process with an error code
-// }
 
 
 dotenv.config();
@@ -27,56 +17,56 @@ const PORT = process.env.PORT || 3000;
 
 app.use(express.json());
 
-// initializeDatabase()
+initializeDatabase()
 
-// const jsonProductData =fs.readFileSync('ProductData.json', 'utf-8')
-// const productData = JSON.parse(jsonProductData);
+const jsonProductData =fs.readFileSync('ProductData.json', 'utf-8')
+const productData = JSON.parse(jsonProductData);
  
-// const addressData = JSON.parse(fs.readFileSync('AddressData.json', 'utf-8'));
+const addressData = JSON.parse(fs.readFileSync('AddressData.json', 'utf-8'));
  
-// async function seedData() {
-//   try {
-//     // Seed Products
-//     for (const product of productData) {
-//       const newProduct = new Product({
-//         title: product.title,
-//         description: product.description,
-//         price: product.price,
-//         originalPrice: product.originalPrice,
-//         discountPercentage: product.discountPercentage,
-//         size: product.size,
-//         rating: product.rating,
-//         reviewsCount: product.reviewsCount,
-//         images: product.images,
-//         features: product.features.map(f => f.detail),
-//         returnPolicyDays: product.returnPolicyDays,
-//         gender: product.gender,
-//         deliveryOptions: product.deliveryOptions,
-//       });
-//       await newProduct.save();
-//     }
-//     console.log('Products seeded successfully.');
+async function seedData() {
+  try {
+    // Seed Products
+    for (const product of productData) {
+      const newProduct = new Product({
+        title: product.title,
+        description: product.description,
+        price: product.price,
+        originalPrice: product.originalPrice,
+        discountPercentage: product.discountPercentage,
+        size: product.size,
+        rating: product.rating,
+        reviewsCount: product.reviewsCount,
+        images: product.images,
+        features: product.features.map(f => f.detail),
+        returnPolicyDays: product.returnPolicyDays,
+        gender: product.gender,
+        deliveryOptions: product.deliveryOptions,
+      });
+      await newProduct.save();
+    }
+    console.log('Products seeded successfully.');
 
  
-//     for (const address of addressData) {
-//       const newAddress = new Address({
-//         fullName: address.fullName,
-//         phoneNumber: address.phoneNumber,
-//         addressLine1: address.addressLine1,
-//         addressLine2: address.addressLine2,
-//         city: address.city,
-//         state: address.state,
-//         postalCode: address.postalCode,
-//         country: address.country,
-//       });
-//       await newAddress.save();
-//     }
-//     console.log('Addresses seeded successfully.');
-//   } catch (error) {
-//     console.log('An error occurred while seeding the data:', error);
-//   }
-// }
-// seedData();
+    for (const address of addressData) {
+      const newAddress = new Address({
+        fullName: address.fullName,
+        phoneNumber: address.phoneNumber,
+        addressLine1: address.addressLine1,
+        addressLine2: address.addressLine2,
+        city: address.city,
+        state: address.state,
+        postalCode: address.postalCode,
+        country: address.country,
+      });
+      await newAddress.save();
+    }
+    console.log('Addresses seeded successfully.');
+  } catch (error) {
+    console.log('An error occurred while seeding the data:', error);
+  }
+}
+seedData();
 
 const corsOptions = {
   origin: '*',
