@@ -29,7 +29,8 @@ app.use(express.json());
 
 initializeDatabase()
 
-const productData = JSON.parse(fs.readFileSync('ProductData.json', 'utf-8'));
+const jsonProductData =fs.readFileSync('ProductData.json', 'utf-8')
+const productData = JSON.parse(jsonProductData);
  
 const addressData = JSON.parse(fs.readFileSync('AddressData.json', 'utf-8'));
  
