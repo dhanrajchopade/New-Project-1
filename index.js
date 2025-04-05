@@ -29,9 +29,9 @@ app.use(express.json());
 
 initializeDatabase()
 
-const productData = JSON.parse(fs.readFileSync('./ProductData.json', 'utf-8'));
+const productData = JSON.parse(fs.readFileSync('./data/ProductData.json', 'utf-8'));
  
-const addressData = JSON.parse(fs.readFileSync('./AddressData.json', 'utf-8'));
+const addressData = JSON.parse(fs.readFileSync('AddressData.json', 'utf-8'));
  
 async function seedData() {
   try {
