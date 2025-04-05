@@ -1,0 +1,609 @@
+[
+    {
+      "id": 1,
+      "title": "Men Premium Jacket Quilted Hooded",
+      "description": "Winter Jackets for Men & Boys Full Sleeve",
+      "price": 2000,
+      "originalPrice": 3999,
+      "gender" :"Men",
+      "discountPercentage": 50,
+      "rating": 4.5,
+      "reviewsCount": 1200,
+      "sizes": ["S", "M", "XL", "XXL"],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoNOxbiGDP7lPHgtyycfiub22JGgeud8OvQ&s",
+        "https://images.meesho.com/images/products/436352209/xfkfo_512.webp"
+      ],
+      "features": [
+        {
+          "detail": "STYLE REDEFINED: Elevate your look with our versatile Bomber Jacket. Combining timeless design with modern flair, it offers a cool, effortless style and long-lasting durability."
+        },
+        {
+          "detail": "ALL-WEATHER READY: Stay comfortable in any weather with its wind-resistant and water-repellent features, perfect for transitioning between seasons."
+        },
+        {
+          "detail": "UNPARALLELED COMFORT: Enjoy a snug, non-restrictive fit and premium materials for a cozy experience year-round."
+        },
+        {
+          "detail": "VERSATILE ESSENTIAL: Ideal for any occasion, from casual outings to semi-formal events. Pair it with jeans or dress it up—it's a wardrobe staple."
+        },
+        {
+          "detail": "TRAVEL-FRIENDLY: Lightweight and easy to pack, it's the perfect travel companion for style on the go. Redefine your fashion standards with this chic, versatile jacket."
+        }
+      ],
+      "returnPolicyDays": 10,
+      "deliveryOptions": {
+        "freeDelivery": true,
+        "payOnDeliveryAvailable": true
+      }
+    },
+    {
+        "id": 2,
+        "title": "Men Casual Jacket",
+        "description": "Winter Jackets for Men & Boys Full Sleeve",
+        "price": 2500,
+        "gender" :"Men",
+        "originalPrice": 4999,
+        "discountPercentage": 50,
+        "rating": 4.5,
+        "reviewsCount": 1300,
+        "sizes": ["S", "M", "XL", "XXL"],
+        "images": [
+          "https://images.meesho.com/images/products/150861046/ubgyd_512.webp",
+          "https://images.meesho.com/images/products/325140057/npl55_512.webp"
+        ],
+        "features": [
+          {
+            "detail": "STYLE REDEFINED: Elevate your look with our versatile Bomber Jacket. Combining timeless design with modern flair, it offers a cool, effortless style and long-lasting durability."
+          },
+          {
+            "detail": "ALL-WEATHER READY: Stay comfortable in any weather with its wind-resistant and water-repellent features, perfect for transitioning between seasons."
+          },
+          {
+            "detail": "UNPARALLELED COMFORT: Enjoy a snug, non-restrictive fit and premium materials for a cozy experience year-round."
+          },
+          {
+            "detail": "VERSATILE ESSENTIAL: Ideal for any occasion, from casual outings to semi-formal events. Pair it with jeans or dress it up—it's a wardrobe staple."
+          },
+          {
+            "detail": "TRAVEL-FRIENDLY: Lightweight and easy to pack, it's the perfect travel companion for style on the go. Redefine your fashion standards with this chic, versatile jacket."
+          }
+        ],
+        "returnPolicyDays": 10,
+        "deliveryOptions": {
+          "freeDelivery": true,
+          "payOnDeliveryAvailable": true
+        }
+      }, {
+        "id": 3,
+        "title": "Women Solid Padded Jacket",
+        "description": "Winter Jackets for Men & Boys Full Sleeve",
+        "price": 3000,
+        
+        "originalPrice": 5999,
+        "discountPercentage": 50,
+        "rating": 4.5,
+        "gender" :"Women",
+        "reviewsCount": 1900,
+        "sizes": ["S", "M", "XL", "XXL"],
+        "images": [
+          "https://img.tatacliq.com/images/i20//437Wx649H/MP000000023969287_437Wx649H_202410052057411.jpeg",
+          "https://rukminim2.flixcart.com/image/850/1000/xif0q/jacket/g/n/a/m-no-rfj1071a-red-tape-original-imah4w4czncrzy7h.jpeg?q=20&crop=false"
+        ],
+        "features": [
+          {
+            "detail": "STYLE REDEFINED: Elevate your look with our versatile Bomber Jacket. Combining timeless design with modern flair, it offers a cool, effortless style and long-lasting durability."
+          },
+          {
+            "detail": "ALL-WEATHER READY: Stay comfortable in any weather with its wind-resistant and water-repellent features, perfect for transitioning between seasons."
+          },
+          {
+            "detail": "UNPARALLELED COMFORT: Enjoy a snug, non-restrictive fit and premium materials for a cozy experience year-round."
+          },
+          {
+            "detail": "VERSATILE ESSENTIAL: Ideal for any occasion, from casual outings to semi-formal events. Pair it with jeans or dress it up—it's a wardrobe staple."
+          },
+          {
+            "detail": "TRAVEL-FRIENDLY: Lightweight and easy to pack, it's the perfect travel companion for style on the go. Redefine your fashion standards with this chic, versatile jacket."
+          }
+        ],
+        "returnPolicyDays": 10,
+        "deliveryOptions": {
+          "freeDelivery": true,
+          "payOnDeliveryAvailable": true
+        }
+      }, {
+        "id": 4,
+        "title": "Men Premium Jacket Quilted Hooded",
+        "description": "Winter Jackets for Men & Boys Full Sleeve",
+        "price": 2000,
+        "gender" :"Men",
+
+        "originalPrice": 3999,
+        "discountPercentage": 50,
+        "rating": 2.5,
+        "reviewsCount": 1600,
+        "sizes": ["S", "M", "XL", "XXL"],
+        "images": [
+          "https://images-cdn.ubuy.co.in/639d1cc936c1a57bdc24ca55-chelsea-fc-official-soccer-gift-mens.jpg",
+          "https://i.ebayimg.com/images/g/bkAAAOSwM0pm~l6i/s-l400.jpg"
+        ],
+        "features": [
+          {
+            "detail": "STYLE REDEFINED: Elevate your look with our versatile Bomber Jacket. Combining timeless design with modern flair, it offers a cool, effortless style and long-lasting durability."
+          },
+          {
+            "detail": "ALL-WEATHER READY: Stay comfortable in any weather with its wind-resistant and water-repellent features, perfect for transitioning between seasons."
+          },
+          {
+            "detail": "UNPARALLELED COMFORT: Enjoy a snug, non-restrictive fit and premium materials for a cozy experience year-round."
+          },
+          {
+            "detail": "VERSATILE ESSENTIAL: Ideal for any occasion, from casual outings to semi-formal events. Pair it with jeans or dress it up—it's a wardrobe staple."
+          },
+          {
+            "detail": "TRAVEL-FRIENDLY: Lightweight and easy to pack, it's the perfect travel companion for style on the go. Redefine your fashion standards with this chic, versatile jacket."
+          }
+        ],
+        "returnPolicyDays": 10,
+        "deliveryOptions": {
+          "freeDelivery": true,
+          "payOnDeliveryAvailable": true
+        }
+      },
+      {
+        "id": 5,
+        "title": "Women Hooded Padded Jacket",
+        "description": "Winter Jackets for Men & Boys Full Sleeve",
+        "price": 20000,
+        "gender" :"Women",
+        "originalPrice": 39999,
+        "discountPercentage": 50,
+        "rating": 3.0,
+        "reviewsCount": 1000,
+        "sizes": ["S", "M", "XL", "XXL"],
+        "images": [
+          "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/26225574/2023/12/4/e55eea91-1628-4e40-a070-fb00c5e29b851701681240510MensReversibleSlimFitHoodedJacket1.jpg",
+          "https://m.media-amazon.com/images/I/51qRrpbl2rL._AC_SX385_.jpg"
+        ],
+        "features": [
+          {
+            "detail": "STYLE REDEFINED: Elevate your look with our versatile Bomber Jacket. Combining timeless design with modern flair, it offers a cool, effortless style and long-lasting durability."
+          },
+          {
+            "detail": "ALL-WEATHER READY: Stay comfortable in any weather with its wind-resistant and water-repellent features, perfect for transitioning between seasons."
+          },
+          {
+            "detail": "UNPARALLELED COMFORT: Enjoy a snug, non-restrictive fit and premium materials for a cozy experience year-round."
+          },
+          {
+            "detail": "VERSATILE ESSENTIAL: Ideal for any occasion, from casual outings to semi-formal events. Pair it with jeans or dress it up—it's a wardrobe staple."
+          },
+          {
+            "detail": "TRAVEL-FRIENDLY: Lightweight and easy to pack, it's the perfect travel companion for style on the go. Redefine your fashion standards with this chic, versatile jacket."
+          }
+        ],
+        "returnPolicyDays": 10,
+        "deliveryOptions": {
+          "freeDelivery": true,
+          "payOnDeliveryAvailable": true
+        }
+      },
+      {
+        "id": 6,
+        "title": "Men Light Grey TPU Jacket",
+        "description": "Winter Jackets for Men & Boys Full Sleeve",
+        "price": 6000,
+        "gender" :"Men",
+
+        "originalPrice": 11999,
+        "discountPercentage": 50,
+        "rating": 4.0,
+        "reviewsCount": 1900,
+        "sizes": ["S", "M", "XL", "XXL"],
+        "images": [
+          "https://m.media-amazon.com/images/I/41mgGwKAG7L._AC_UY1100_.jpg",
+          "https://5.imimg.com/data5/SELLER/Default/2023/8/337991021/NI/HA/VY/52186831/men-light-grey-tpu-jacket-500x500.jpeg"
+        ],
+        "features": [
+          {
+            "detail": "STYLE REDEFINED: Elevate your look with our versatile Bomber Jacket. Combining timeless design with modern flair, it offers a cool, effortless style and long-lasting durability."
+          },
+          {
+            "detail": "ALL-WEATHER READY: Stay comfortable in any weather with its wind-resistant and water-repellent features, perfect for transitioning between seasons."
+          },
+          {
+            "detail": "UNPARALLELED COMFORT: Enjoy a snug, non-restrictive fit and premium materials for a cozy experience year-round."
+          },
+          {
+            "detail": "VERSATILE ESSENTIAL: Ideal for any occasion, from casual outings to semi-formal events. Pair it with jeans or dress it up—it's a wardrobe staple."
+          },
+          {
+            "detail": "TRAVEL-FRIENDLY: Lightweight and easy to pack, it's the perfect travel companion for style on the go. Redefine your fashion standards with this chic, versatile jacket."
+          }
+        ],
+        "returnPolicyDays": 10,
+        "deliveryOptions": {
+          "freeDelivery": true,
+          "payOnDeliveryAvailable": true
+        }
+      },
+      {
+        "id": 7,
+        "title": "Women Dark Academia Grunge Coats Puffer Hooded",
+        "description": "Winter Jackets for Men & Boys Full Sleeve",
+        "price": 1000,
+        "gender" :"Women",
+        "originalPrice": 1999,
+        "discountPercentage": 50,
+        "rating": 3.5,
+        "reviewsCount": 1400,
+        "sizes": ["S", "M", "XL", "XXL"],
+        "images": [
+          "https://images-cdn.ubuy.co.in/66809d848fc7b538ac2d1b34-men-39-s-quilted-hooded-puffer-jacket.jpg",
+          "https://m.media-amazon.com/images/I/51Lw9iO+0tL._AC_UY1000_.jpg"
+        ],
+        "features": [
+          {
+            "detail": "STYLE REDEFINED: Elevate your look with our versatile Bomber Jacket. Combining timeless design with modern flair, it offers a cool, effortless style and long-lasting durability."
+          },
+          {
+            "detail": "ALL-WEATHER READY: Stay comfortable in any weather with its wind-resistant and water-repellent features, perfect for transitioning between seasons."
+          },
+          {
+            "detail": "UNPARALLELED COMFORT: Enjoy a snug, non-restrictive fit and premium materials for a cozy experience year-round."
+          },
+          {
+            "detail": "VERSATILE ESSENTIAL: Ideal for any occasion, from casual outings to semi-formal events. Pair it with jeans or dress it up—it's a wardrobe staple."
+          },
+          {
+            "detail": "TRAVEL-FRIENDLY: Lightweight and easy to pack, it's the perfect travel companion for style on the go. Redefine your fashion standards with this chic, versatile jacket."
+          }
+        ],
+        "returnPolicyDays": 10,
+        "deliveryOptions": {
+          "freeDelivery": true,
+          "payOnDeliveryAvailable": true
+        }
+      },
+      {
+        "id": 8,
+        "title": "Men's Puffer Jackets",
+        "description": "Winter Jackets for Men & Boys Full Sleeve",
+        "price": 6000,
+        "originalPrice": 12999,
+        "gender" :"Men",
+        "discountPercentage": 50,
+        "rating": 3.5,
+        "reviewsCount": 1200,
+        "sizes": ["S", "M", "XL", "XXL"],
+        "images": [
+          "https://calvinklein-eu.scene7.com/is/image/CalvinKleinEU/J30J325596_BEH_main?$b2c_uplp_listing_2560$"
+             ],
+        "features": [
+          {
+            "detail": "STYLE REDEFINED: Elevate your look with our versatile Bomber Jacket. Combining timeless design with modern flair, it offers a cool, effortless style and long-lasting durability."
+          },
+          {
+            "detail": "ALL-WEATHER READY: Stay comfortable in any weather with its wind-resistant and water-repellent features, perfect for transitioning between seasons."
+          },
+          {
+            "detail": "UNPARALLELED COMFORT: Enjoy a snug, non-restrictive fit and premium materials for a cozy experience year-round."
+          },
+          {
+            "detail": "VERSATILE ESSENTIAL: Ideal for any occasion, from casual outings to semi-formal events. Pair it with jeans or dress it up—it's a wardrobe staple."
+          },
+          {
+            "detail": "TRAVEL-FRIENDLY: Lightweight and easy to pack, it's the perfect travel companion for style on the go. Redefine your fashion standards with this chic, versatile jacket."
+          }
+        ],
+        "returnPolicyDays": 10,
+        "deliveryOptions": {
+          "freeDelivery": true,
+          "payOnDeliveryAvailable": true
+        }
+      },
+      {
+        "id": 9,
+        "title": "Women Premium Jacket Quilted Hooded",
+        "description": "Winter Jackets for Women & Boys Full Sleeve",
+        "price": 1000,
+        "originalPrice": 2999,
+        "discountPercentage": 50,
+        "rating": 1.5,
+        "gender" :"Women",
+
+        "reviewsCount": 1200,
+        "sizes": ["S", "M", "XL", "XXL"],
+        "images": [
+          "https://5.imimg.com/data5/SELLER/Default/2024/12/476264632/WW/MD/HN/92198193/men-winter-jacket-quilted-jacket-500x500.png",
+          "https://5.imimg.com/data5/SELLER/Default/2024/12/476264849/ZQ/CR/RO/92198193/men-winter-jacket-quilted-jacket-500x500.png"
+        ],
+        "features": [
+          {
+            "detail": "STYLE REDEFINED: Elevate your look with our versatile Bomber Jacket. Combining timeless design with modern flair, it offers a cool, effortless style and long-lasting durability."
+          },
+          {
+            "detail": "ALL-WEATHER READY: Stay comfortable in any weather with its wind-resistant and water-repellent features, perfect for transitioning between seasons."
+          },
+          {
+            "detail": "UNPARALLELED COMFORT: Enjoy a snug, non-restrictive fit and premium materials for a cozy experience year-round."
+          },
+          {
+            "detail": "VERSATILE ESSENTIAL: Ideal for any occasion, from casual outings to semi-formal events. Pair it with jeans or dress it up—it's a wardrobe staple."
+          },
+          {
+            "detail": "TRAVEL-FRIENDLY: Lightweight and easy to pack, it's the perfect travel companion for style on the go. Redefine your fashion standards with this chic, versatile jacket."
+          }
+        ],
+        "returnPolicyDays": 10,
+        "deliveryOptions": {
+          "freeDelivery": true,
+          "payOnDeliveryAvailable": true
+        }
+      },
+      {
+        "id": 10,
+        "title": "Men Cheap Quilted Shop Jacket",
+        "description": "Winter Jackets for Men & Boys Full Sleeve",
+        "price": 1000,
+        "gender" :"Men",
+        "originalPrice": 1999,
+        "discountPercentage": 50,
+        "rating": 2.5,
+        "reviewsCount": 1200,
+        "sizes": ["S", "M", "XL", "XXL"],
+        "images": [
+          "https://hips.hearstapps.com/hmg-prod/images/index-quilted-jackets-652fefb3b2f1d.jpg?crop=0.502xw:1.00xh;0.250xw,0&resize=640:*",
+          "https://images.outdoorandcountry.co.uk/image/upload/e_trim:2/bo_8px_solid_white/c_pad,b_white,w_1000,h_1200,f_auto,q_auto/v1602863047/product/248172.jpg"
+        ],
+        "features": [
+          {
+            "detail": "STYLE REDEFINED: Elevate your look with our versatile Bomber Jacket. Combining timeless design with modern flair, it offers a cool, effortless style and long-lasting durability."
+          },
+          {
+            "detail": "ALL-WEATHER READY: Stay comfortable in any weather with its wind-resistant and water-repellent features, perfect for transitioning between seasons."
+          },
+          {
+            "detail": "UNPARALLELED COMFORT: Enjoy a snug, non-restrictive fit and premium materials for a cozy experience year-round."
+          },
+          {
+            "detail": "VERSATILE ESSENTIAL: Ideal for any occasion, from casual outings to semi-formal events. Pair it with jeans or dress it up—it's a wardrobe staple."
+          },
+          {
+            "detail": "TRAVEL-FRIENDLY: Lightweight and easy to pack, it's the perfect travel companion for style on the go. Redefine your fashion standards with this chic, versatile jacket."
+          }
+        ],
+        "returnPolicyDays": 10,
+        "deliveryOptions": {
+          "freeDelivery": true,
+          "payOnDeliveryAvailable": true
+        }
+      },
+      {
+        "id": 11,
+        "title": "Women Nylon Jacket",
+        "description": "Winter Jackets for Women & Girls Full Sleeve",
+        "price": 4000,
+        "originalPrice": 7999,
+        "gender" :"Women",
+        "discountPercentage": 50,
+        "rating": 4.5,
+        "reviewsCount": 1200,
+        "sizes": ["S", "M", "XL", "XXL"],
+        "images": [
+          "https://m.media-amazon.com/images/I/71tyz2LS2mL._AC_UY1100_.jpg",
+          "https://m.media-amazon.com/images/I/71jhyvNOxSL._AC_UY350_.jpg"
+        ],
+        "features": [
+          {
+            "detail": "STYLE REDEFINED: Elevate your look with our versatile Bomber Jacket. Combining timeless design with modern flair, it offers a cool, effortless style and long-lasting durability."
+          },
+          {
+            "detail": "ALL-WEATHER READY: Stay comfortable in any weather with its wind-resistant and water-repellent features, perfect for transitioning between seasons."
+          },
+          {
+            "detail": "UNPARALLELED COMFORT: Enjoy a snug, non-restrictive fit and premium materials for a cozy experience year-round."
+          },
+          {
+            "detail": "VERSATILE ESSENTIAL: Ideal for any occasion, from casual outings to semi-formal events. Pair it with jeans or dress it up—it's a wardrobe staple."
+          },
+          {
+            "detail": "TRAVEL-FRIENDLY: Lightweight and easy to pack, it's the perfect travel companion for style on the go. Redefine your fashion standards with this chic, versatile jacket."
+          }
+        ],
+        "returnPolicyDays": 10,
+        "deliveryOptions": {
+          "freeDelivery": true,
+          "payOnDeliveryAvailable": true
+        }
+      },
+      {
+        "id": 12,
+        "title": "Men Premium Jacket Quilted Hooded",
+        "description": "Winter Jackets for Men & Boys Full Sleeve",
+        "price": 8000,
+        "originalPrice": 15999,
+        "gender" :"Men",
+        "discountPercentage": 50,
+        "rating": 4.5,
+        "reviewsCount": 1800,
+        "sizes": ["S", "M", "XL", "XXL"],
+        "images": [
+          "https://i.pinimg.com/474x/5d/da/39/5dda39cc5a33e383b87119ad17d0765f.jpg",
+          "https://i.pinimg.com/736x/00/87/86/00878625f19e615b4e8b462b8771b1f0.jpg"
+        ],
+        "features": [
+          {
+            "detail": "STYLE REDEFINED: Elevate your look with our versatile Bomber Jacket. Combining timeless design with modern flair, it offers a cool, effortless style and long-lasting durability."
+          },
+          {
+            "detail": "ALL-WEATHER READY: Stay comfortable in any weather with its wind-resistant and water-repellent features, perfect for transitioning between seasons."
+          },
+          {
+            "detail": "UNPARALLELED COMFORT: Enjoy a snug, non-restrictive fit and premium materials for a cozy experience year-round."
+          },
+          {
+            "detail": "VERSATILE ESSENTIAL: Ideal for any occasion, from casual outings to semi-formal events. Pair it with jeans or dress it up—it's a wardrobe staple."
+          },
+          {
+            "detail": "TRAVEL-FRIENDLY: Lightweight and easy to pack, it's the perfect travel companion for style on the go. Redefine your fashion standards with this chic, versatile jacket."
+          }
+        ],
+        "returnPolicyDays": 10,
+        "deliveryOptions": {
+          "freeDelivery": true,
+          "payOnDeliveryAvailable": true
+        }
+      },
+      {
+        "id": 13,
+        "title": "Men Premium Jacket Quilted Hooded",
+        "description": "Winter Jackets for Men & Boys Full Sleeve",
+        "price": 3000,
+        "gender" :"Men",
+        "originalPrice": 4999,
+        "discountPercentage": 40,
+        "rating": 4.0,
+        "reviewsCount": 1500,
+        "sizes": ["S", "M", "XL", "XXL"],
+        "images": [
+          "https://ae01.alicdn.com/kf/S96af395848a647b595dbcb9904f7b11cP.jpg",
+          "https://m.media-amazon.com/images/I/61LUjNyXqPL._AC_SL1000_.jpg"
+        ],
+        "features": [
+          {
+            "detail": "STYLE REDEFINED: Elevate your look with our versatile Bomber Jacket. Combining timeless design with modern flair, it offers a cool, effortless style and long-lasting durability."
+          },
+          {
+            "detail": "ALL-WEATHER READY: Stay comfortable in any weather with its wind-resistant and water-repellent features, perfect for transitioning between seasons."
+          },
+          {
+            "detail": "UNPARALLELED COMFORT: Enjoy a snug, non-restrictive fit and premium materials for a cozy experience year-round."
+          },
+          {
+            "detail": "VERSATILE ESSENTIAL: Ideal for any occasion, from casual outings to semi-formal events. Pair it with jeans or dress it up—it's a wardrobe staple."
+          },
+          {
+            "detail": "TRAVEL-FRIENDLY: Lightweight and easy to pack, it's the perfect travel companion for style on the go. Redefine your fashion standards with this chic, versatile jacket."
+          }
+        ],
+        "returnPolicyDays": 10,
+        "deliveryOptions": {
+          "freeDelivery": true,
+          "payOnDeliveryAvailable": true
+        }
+      },
+      {
+        "id": 14,
+        "title": "Women Brazo Crop Winter Jacket Quilted Hooded",
+        "description": "Winter Jackets for Men & Boys Full Sleeve",
+        "price": 2000,
+        "gender" :"Women",
+        "originalPrice": 3999,
+        "discountPercentage": 50,
+        "rating": 4.5,
+        "reviewsCount": 1200,
+        "sizes": ["S", "M", "XL", "XXL"],
+        "images": [
+          "https://brazo.co.in/cdn/shop/files/2_08f15577-3a79-417d-958c-ad7f01cf41f0_1024x1024.jpg?v=1728638905"   
+        ],
+        "features": [
+          {
+            "detail": "STYLE REDEFINED: Elevate your look with our versatile Bomber Jacket. Combining timeless design with modern flair, it offers a cool, effortless style and long-lasting durability."
+          },
+          {
+            "detail": "ALL-WEATHER READY: Stay comfortable in any weather with its wind-resistant and water-repellent features, perfect for transitioning between seasons."
+          },
+          {
+            "detail": "UNPARALLELED COMFORT: Enjoy a snug, non-restrictive fit and premium materials for a cozy experience year-round."
+          },
+          {
+            "detail": "VERSATILE ESSENTIAL: Ideal for any occasion, from casual outings to semi-formal events. Pair it with jeans or dress it up—it's a wardrobe staple."
+          },
+          {
+            "detail": "TRAVEL-FRIENDLY: Lightweight and easy to pack, it's the perfect travel companion for style on the go. Redefine your fashion standards with this chic, versatile jacket."
+          }
+        ],
+        "returnPolicyDays": 10,
+        "deliveryOptions": {
+          "freeDelivery": true,
+          "payOnDeliveryAvailable": true
+        }
+      },
+      {
+        "id": 15,
+        "title": "Men Leather Full Sleeve Solid Jacket",
+        "description": "Winter Jackets for Men & Boys Full Sleeve",
+        "price": 2000,
+        "gender" :"Men",
+        "originalPrice": 3999,
+        "discountPercentage": 50,
+        "rating": 4.5,
+        "reviewsCount": 1200,
+        "sizes": ["S", "M", "XL", "XXL"],
+        "images": [
+          "https://rukminim3.flixcart.com/image/850/1000/xif0q/jacket/c/u/j/xxl-no-classic-latest-fashion-black-biker-leather-jacket-for-men-original-imagtzbkwz4wjzwb.jpeg?q=90&crop=false"           
+        ],
+        "features": [
+          {
+            "detail": "STYLE REDEFINED: Elevate your look with our versatile Bomber Jacket. Combining timeless design with modern flair, it offers a cool, effortless style and long-lasting durability."
+          },
+          {
+            "detail": "ALL-WEATHER READY: Stay comfortable in any weather with its wind-resistant and water-repellent features, perfect for transitioning between seasons."
+          },
+          {
+            "detail": "UNPARALLELED COMFORT: Enjoy a snug, non-restrictive fit and premium materials for a cozy experience year-round."
+          },
+          {
+            "detail": "VERSATILE ESSENTIAL: Ideal for any occasion, from casual outings to semi-formal events. Pair it with jeans or dress it up—it's a wardrobe staple."
+          },
+          {
+            "detail": "TRAVEL-FRIENDLY: Lightweight and easy to pack, it's the perfect travel companion for style on the go. Redefine your fashion standards with this chic, versatile jacket."
+          }
+        ],
+        "returnPolicyDays": 10,
+        "deliveryOptions": {
+          "freeDelivery": true,
+          "payOnDeliveryAvailable": true
+        }
+      },
+      {
+        "id": 16,
+        "title": "Women Premium Jacket Quilted Hooded",
+        "description": "Winter Jackets for Men & Boys Full Sleeve",
+        "price": 1500,
+        "originalPrice": 2999,
+        "gender" :"Women",
+        "discountPercentage": 50,
+        "rating": 4.5,
+        "reviewsCount": 1200,
+        "sizes": ["S", "M", "XL", "XXL"],
+        "images": [
+          "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/20546556/2022/10/29/a7ad8fc2-8fdb-403b-be31-fe40502a52451667046806307Jackets1.jpg"
+        ],
+        "features": [
+          {
+            "detail": "STYLE REDEFINED: Elevate your look with our versatile Bomber Jacket. Combining timeless design with modern flair, it offers a cool, effortless style and long-lasting durability."
+          },
+          {
+            "detail": "ALL-WEATHER READY: Stay comfortable in any weather with its wind-resistant and water-repellent features, perfect for transitioning between seasons."
+          },
+          {
+            "detail": "UNPARALLELED COMFORT: Enjoy a snug, non-restrictive fit and premium materials for a cozy experience year-round."
+          },
+          {
+            "detail": "VERSATILE ESSENTIAL: Ideal for any occasion, from casual outings to semi-formal events. Pair it with jeans or dress it up—it's a wardrobe staple."
+          },
+          {
+            "detail": "TRAVEL-FRIENDLY: Lightweight and easy to pack, it's the perfect travel companion for style on the go. Redefine your fashion standards with this chic, versatile jacket."
+          }
+        ],
+        "returnPolicyDays": 10,
+        "deliveryOptions": {
+          "freeDelivery": true,
+          "payOnDeliveryAvailable": true
+        }
+      }
+  ]
+  

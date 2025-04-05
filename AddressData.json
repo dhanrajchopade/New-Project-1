@@ -1,0 +1,22 @@
+[
+    {
+      "fullName": "John Doe",
+      "phoneNumber": "1234567890",
+      "addressLine1": "123 Main Street",
+      "addressLine2": "Apartment 4B",
+      "city": "New York",
+      "state": "NY",
+      "postalCode": "10001",
+      "country": "USA"
+    },
+    {
+      "fullName": "Jane Smith",
+      "phoneNumber": "0806543210",
+      "addressLine1": "456 Elm Street",
+      "addressLine2": "Suite 12",
+      "city": "Los Angeles",
+      "state": "CA",
+      "postalCode": "90001",
+      "country": "USA"
+    }
+  ]
