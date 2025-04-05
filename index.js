@@ -17,56 +17,56 @@ const PORT = process.env.PORT || 3000;
 
 app.use(express.json());
 
-initializeDatabase()
+// initializeDatabase()
 
-const jsonProductData =fs.readFileSync('ProductData.json', 'utf-8')
-const productData = JSON.parse(jsonProductData);
+// const jsonProductData =fs.readFileSync('ProductData.json', 'utf-8')
+// const productData = JSON.parse(jsonProductData);
  
-const addressData = JSON.parse(fs.readFileSync('AddressData.json', 'utf-8'));
+// const addressData = JSON.parse(fs.readFileSync('AddressData.json', 'utf-8'));
  
-async function seedData() {
-  try {
-    // Seed Products
-    for (const product of productData) {
-      const newProduct = new Product({
-        title: product.title,
-        description: product.description,
-        price: product.price,
-        originalPrice: product.originalPrice,
-        discountPercentage: product.discountPercentage,
-        size: product.size,
-        rating: product.rating,
-        reviewsCount: product.reviewsCount,
-        images: product.images,
-        features: product.features.map(f => f.detail),
-        returnPolicyDays: product.returnPolicyDays,
-        gender: product.gender,
-        deliveryOptions: product.deliveryOptions,
-      });
-      await newProduct.save();
-    }
-    console.log('Products seeded successfully.');
+// async function seedData() {
+//   try {
+//     // Seed Products
+//     for (const product of productData) {
+//       const newProduct = new Product({
+//         title: product.title,
+//         description: product.description,
+//         price: product.price,
+//         originalPrice: product.originalPrice,
+//         discountPercentage: product.discountPercentage,
+//         size: product.size,
+//         rating: product.rating,
+//         reviewsCount: product.reviewsCount,
+//         images: product.images,
+//         features: product.features.map(f => f.detail),
+//         returnPolicyDays: product.returnPolicyDays,
+//         gender: product.gender,
+//         deliveryOptions: product.deliveryOptions,
+//       });
+//       await newProduct.save();
+//     }
+//     console.log('Products seeded successfully.');
 
  
-    for (const address of addressData) {
-      const newAddress = new Address({
-        fullName: address.fullName,
-        phoneNumber: address.phoneNumber,
-        addressLine1: address.addressLine1,
-        addressLine2: address.addressLine2,
-        city: address.city,
-        state: address.state,
-        postalCode: address.postalCode,
-        country: address.country,
-      });
-      await newAddress.save();
-    }
-    console.log('Addresses seeded successfully.');
-  } catch (error) {
-    console.log('An error occurred while seeding the data:', error);
-  }
-}
-seedData();
+//     for (const address of addressData) {
+//       const newAddress = new Address({
+//         fullName: address.fullName,
+//         phoneNumber: address.phoneNumber,
+//         addressLine1: address.addressLine1,
+//         addressLine2: address.addressLine2,
+//         city: address.city,
+//         state: address.state,
+//         postalCode: address.postalCode,
+//         country: address.country,
+//       });
+//       await newAddress.save();
+//     }
+//     console.log('Addresses seeded successfully.');
+//   } catch (error) {
+//     console.log('An error occurred while seeding the data:', error);
+//   }
+// }
+// seedData();
 
 const corsOptions = {
   origin: '*',
