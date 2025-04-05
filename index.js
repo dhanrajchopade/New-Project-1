@@ -1,5 +1,5 @@
 import express from 'express';
-// import { initializeDatabase } from './db/db.connect.js';
+import { initializeDatabase } from './db/db.connect.js';
 import Product from './modules/products.models.js';
 import Wishlist from './modules/wishlist.models.js';
 import Cart from './modules/cart.models.js';
@@ -15,7 +15,7 @@ const PORT = process.env.PORT || 3000;
 
 app.use(express.json());
 
-// initializeDatabase()
+initializeDatabase()
 
 // const jsonProductData =fs.readFileSync('ProductData.json', 'utf-8')
 // const productData = JSON.parse(jsonProductData);
